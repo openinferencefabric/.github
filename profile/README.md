@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<p align="center"><b>Open source, bare metal to tokens: one platform to schedule, serve, benchmark and observe LLMs on NVIDIA and AMD GPUs.</b></p>
+<p align="left"><b>Open source, bare metal to tokens: one platform to schedule, serve, benchmark and observe LLMs on NVIDIA and AMD GPUs.</b></p>
 
 **[oif](https://github.com/openinferencefabric/oif)** installs, with one command, a Kubernetes platform on GPU servers:
 open-source NVIDIA Run:ai and the KAI Scheduler for projects, quotas and fractional GPUs, NVIDIA Dynamo for serving,
