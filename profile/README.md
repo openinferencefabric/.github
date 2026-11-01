@@ -1,4 +1,4 @@
-<p align="centre">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="oif-logo-dark-1200x400.png">
     <img src="oif-logo-light-1200x400.png" alt="Open Inference Fabric" width="660">
